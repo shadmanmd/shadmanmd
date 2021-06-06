@@ -1,4 +1,5 @@
 # Hi there 👋
+> I'm [Mohammad Shadman](https://shadmanmd.github.io/mdshadman/)
 
 <!--
 **shadmanmd/shadmanmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 [Connect with me](https://www.linkedin.com/in/mohammad-shadman-005729151 "LinkedIn")
+
+⚡ Fun fact: Pinned repos are my projects
